@@ -1,0 +1,9 @@
+name = Sohee MongoDB Layer
+description = Provide a way to handle the Mongodb CRUD feature similar to the database layer for Drupal.
+package = MongoDB
+version = "7.x-2.0"
+core = 7.x
+files[] = sohee_mongo.module
+files[] = sohee_mongodb.install
+
+
